@@ -1,4 +1,4 @@
-![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Kim&layout=compact)
+![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Kim&layout=compact&hide=javascript,html,SCSS)
 
 <!--
 **Nicholas-Kim/Nicholas-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
