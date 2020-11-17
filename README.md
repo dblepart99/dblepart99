@@ -1,4 +1,4 @@
-[![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **Nicholas-Kim/Nicholas-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
