@@ -1,6 +1,7 @@
-![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim&count_private=true&show_icons=true&theme=graywhite)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Kim&exclude_repo=Nicholas-Kim.github.io,minimal-mistakes,devinlife.github.io&layout=compact&langs_count(100)&theme=graywhite)
+![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim&count_private=true&show_icons=true&theme=graywhite)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-kim&hide=html&theme=graywhite)
 
-<!--
+
+
 **Nicholas-Kim/Nicholas-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. &hide=html,SCSS
 
 Here are some ideas to get you started:
