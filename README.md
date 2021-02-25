@@ -1,4 +1,4 @@
-![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim&count_private=true&show_icons=true&theme=graywhite)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-kim&hide=html,scss&theme=graywhite)
+![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Kim&count_private=true&show_icons=true&theme=graywhite)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-kim&langs_count=7&hide=html,scss&theme=graywhite)
 
 
 
