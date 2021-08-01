@@ -1,1 +1,1 @@
-brand new content
+![Nicholas-Kim's github stats](https://github-readme-stats.vercel.app/api?username=dblepart99&count_private=true&show_icons=true&theme=graywhite)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dblepart99&langs_count=5&hide=xslt,html,CSS,scss&theme=graywhite)
