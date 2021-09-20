@@ -37,55 +37,6 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   12 hrs 14 mins      ███████████████░░░░░░░░░░   61.65% 
-HTML                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-CSS                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-C++                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
-Java                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.54%
-
-🔥 Editors: 
-VS Code                  14 hrs 27 mins      ██████████████████░░░░░░░   72.86% 
-PyCharm                  4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   23.49% 
-IntelliJ                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
-
-🐱‍💻 Projects: 
-Algorithm_Code           3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-0915                     3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-Algorithm_dblepart99     3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
-thinking                 2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-0914                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
-
-💻 Operating System: 
-Mac                      19 hrs 49 mins      █████████████████████████   99.91% 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     15 repos            ████████████░░░░░░░░░░░░░   48.39% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/dblepart99/dblepart99/main/charts/bar_graph.png) 
-
-
  Last Updated on 19/09/2021
 <!--END_SECTION:waka-->
 
@@ -100,10 +51,6 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dblepart99&label=Profile%20views&color=0e75b6&style=flat" alt="dblepart99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dblepart99" alt="dblepart99" /></a> </p>
-
 - 🔭 I’m currently working on **Automatic Github Resume**
 
 
@@ -112,4 +59,3 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 <p><img align="left" src=https://github-readme-stats.vercel.app/api?username=dblepart99&count_private=true&show_icons=true&theme=graywhite/></p>
 <p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dblepart99&langs_count=3&hide=xslt,html,CSS,scss&theme=graywhite/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dblepart99&" alt="dblepart99" /></p>
