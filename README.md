@@ -20,7 +20,8 @@
 - React와 React-Native를 활용한 앱과 모바일웹 개발 수료(한국공개소프트웨어협회)
   - 2018.04
 - ProEdu(충남대학교 코딩 교육 봉사단), 2020.03 ~
-- 팀 "코딩이나 해"(학업 상상 튜터링), 2020.04 ~
+- 팀 "코딩이나 해"(학업 상상 튜터링), 2021.04 ~
+- CNU Data Network Laboratory Undergraduate Reasearcher, 2021.06 ~
 
 ## Projects
 
