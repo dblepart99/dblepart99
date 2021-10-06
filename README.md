@@ -27,6 +27,7 @@
 - [Korea Alert CExtension](https://github.com/DuckSooKoong/Korea_Alert_CExtension) - 전국 재난 알림문자확인 크롬 확장프로그램 (2020)
 - Emotionary
 - KingBamboo
+- [Check_Git_Out](https://github.com/dblepart99/Check_Git_Out) - Github를 활용한 학생 이력 관리 시스템(2021.06 ~ )
 
 ## Patent
 
