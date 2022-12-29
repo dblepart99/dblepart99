@@ -2,18 +2,6 @@
 
 
 
-<div align=center>
-  
-  <h3> Basic </h3><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=blue"/> 
-  <h3> Learning </h3>
-  
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=blue"> <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
-  
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dblepart99&theme=warm) -->
-
-</div>
-
-
 # About Me
 
 # Hello, I'm Hyunsoo Kim
@@ -24,14 +12,17 @@
   - 2018.04
 - ProEdu(충남대학교 코딩 교육 봉사단), 2020.03 ~
 - 팀 "코딩이나 해"(학업 상상 튜터링), 2021.04 ~
-- CNU Data Network Laboratory Undergraduate Reasearcher, 2021.06 ~
+- CNU Data Network Laboratory Undergraduate Reasearcher, 2021.06 ~ 2021.12
+- CNU Distributed Networks & Computing Lab Undergraduate Researcher, 2022.12 ~ 
 
 ## Projects
 
 - [Korea Alert CExtension](https://github.com/DuckSooKoong/Korea_Alert_CExtension) - 전국 재난 알림문자확인 크롬 확장프로그램 (2020)
 - Emotionary
 - KingBamboo
-- [Check_Git_Out](https://github.com/dblepart99/Check_Git_Out) - Github를 활용한 학생 이력 관리 시스템(2021.06 ~ )
+- [Check_Git_Out](https://github.com/dblepart99/Check_Git_Out) - Github를 활용한 학생 이력 관리 시스템(2021.06 ~ 2021.12)
+- Whyrano - Question and Answer service for students
+- Newster News - User Friendly News service
 
 ## Patent
 
